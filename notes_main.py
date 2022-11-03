@@ -4,7 +4,7 @@ from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QLabel, QListWid
 import json
 
 app = QApplication([])
-
+#uraaaa
 '''Заметки в json'''
 notes = {
     "Ласкаво просимо!" : {
